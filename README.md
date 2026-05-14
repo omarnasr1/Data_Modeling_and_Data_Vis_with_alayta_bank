@@ -24,7 +24,7 @@ This project demonstrates a full mini data pipeline:
 ## ERD
 
 
-<img src="../Photos/ERD Diagram.png" width="100%" alt="Alayta Bank ERD Diagram">
+<img src="Photos/ERD Diagram.png" width="100%">
 
 
 
@@ -32,6 +32,6 @@ This project demonstrates a full mini data pipeline:
 Write some queries and visualize it using matplotlib library 
 here is some examples:
 
-<img src="../Photos/output1" width="60%">
-<img src="../Photos/output2" width="60%">
-<img src="../Photos/output3" width="60%">
+<img src="Photos/output1" width="60%">
+<img src="Photos/output2" width="60%">
+<img src="Photos/output3" width="60%">
