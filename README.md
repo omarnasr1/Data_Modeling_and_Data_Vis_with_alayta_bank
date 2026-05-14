@@ -28,9 +28,8 @@ This project demonstrates a full mini data pipeline:
 
 
 
-## 📈 Visualizations
-Write some queries and visualize it using matplotlib library 
-here is some examples:
+##  Visualizations
+Write some queries and visualize it using matplotlib library, here is some examples: 
 
 <img src="Photos/output1" width="60%">
 <img src="Photos/output2" width="60%">
