@@ -16,15 +16,15 @@ This project demonstrates a full mini data pipeline:
 
 ##  Technologies Used
 
-- 🐘 PostgreSQL — Relational database system
-- 📊 Matplotlib — Data visualization
-- 🧮 Pandas DataFrame — Data manipulation
+-  PostgreSQL — Relational database system
+-  Matplotlib — Data visualization
+-  Pandas DataFrame — Data manipulation
 
 
 ## ERD
 
 
-<img src="ERD Diagram.png" width="100%" alt="Alayta Bank ERD Diagram">
+<img src="../Photos/ERD Diagram.png" width="100%" alt="Alayta Bank ERD Diagram">
 
 
 
@@ -32,13 +32,6 @@ This project demonstrates a full mini data pipeline:
 Write some queries and visualize it using matplotlib library 
 here is some examples:
 
-<img src="ERD Diagram.png" width="100%">
-
-
-
-##  Project Structure
-
-├── Photos
-├── data/
-├── notebooks/
-└── README.md
+<img src="../Photos/output1" width="60%">
+<img src="../Photos/output2" width="60%">
+<img src="../Photos/output3" width="60%">
